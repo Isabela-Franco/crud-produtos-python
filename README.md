@@ -1,7 +1,7 @@
 # CRUD de produtos em Python
 Sistema simples de gerenciamento de produtos desenvolvido em Python.
 
-##Funcionalidades
+## Funcionalidades
 - Listar produtos
 - Inserir produtos
 - Alterar produtos
